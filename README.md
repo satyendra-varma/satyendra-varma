@@ -8,6 +8,7 @@ I am a Full-Stack Software Engineer specializing in building highly scalable bac
 
 ### 💻 Technical Core
 
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 * **Backend & Systems:** .NET Core, ASP.NET MVC, C#, REST APIs, Microservices
 * **Frontend Ecosystem:** React, JavaScript/TypeScript, State Management, Modern UI/UX
 * **DevOps & Cloud Infrastructure:** AWS (EC2, S3), Docker Containerization, Nginx Reverse Proxy, SSL/TLS (Certbot), CI/CD Pipelines
